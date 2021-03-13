@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amiko1
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Vuejs & Firebase
+- 🌱 I’m currently learning Vue.js & Firebase
 - 💞️ I’m looking to collaborate on Web Projects.
 - 📫 How to reach me amiko19991@gmail.com
 
