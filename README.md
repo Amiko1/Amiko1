@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amiko1
+- 👋 Hi, I’m amirani
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Vue.js & Firebase
 - 💞️ I’m looking to collaborate on Web Projects.
