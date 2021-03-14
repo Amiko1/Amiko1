@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Vue.js & Firebase
 - 💞️ I’m looking to collaborate on Web Projects.
-- 📫 How to reach me amiko19991@gmail.com
+- 📫 How to reach me amiraniburjanadze@gmail.com
 
 <!---
 Amiko1/Amiko1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
