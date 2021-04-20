@@ -1,6 +1,6 @@
 - 👋 Hi, I’m amirani
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Vue.js & Firebase
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Web Projects.
 - 📫 How to reach me amiraniburjanadze@gmail.com
 
